@@ -1,6 +1,5 @@
 package com.br.auto;
 
-import com.br.auto.Pessoa.Pessoa;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
